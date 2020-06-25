@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "I spend more time playing Animal Crossing than I care to admit.",
+        "question": "Animal Crossing has resulted in me neglecting real-world responsibilities.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -110,7 +110,7 @@ questions = [
     {
         "question": "When I'm at school or work, I lay out a mental agenda for what I will do next time I play.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": 10
@@ -272,7 +272,7 @@ questions = [
     {
         "question": "I spend a lot of time playing this game for therapeutic or relaxation purposes.",
         "effect": {
-            "econ": 5,
+            "econ": 0,
             "dipl": 0,
             "govt": 10,
             "scty": 0
@@ -380,7 +380,7 @@ questions = [
     {
         "question": "It is fun to lazily walk around the museum reading the creature descriptions.",
         "effect": {
-            "econ": 0,
+            "econ": -5,
             "dipl": 0,
             "govt": 10,
             "scty": -5
@@ -533,7 +533,7 @@ questions = [
     {
         "question": "I manage to accomplish a lot without the need for plans or schedules.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": -10
