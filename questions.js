@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "I often begin an activity, get bored with it, then move onto another activity.",
+        "question": "I often begin an activity, quickly get bored with it, then move onto another activity.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -486,7 +486,7 @@ questions = [
         }
     },
     {
-        "question": "I love to show off my creations to others.",
+        "question": "I love to brag about my creations to others.",
         "effect": {
             "econ": 5,
             "dipl": 10,
@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "I manage to accomplish a lot without the need for plans or schedules.",
+        "question": "I manage to accomplish a lot every day without the need for plans or schedules.",
         "effect": {
             "econ": 5,
             "dipl": 0,
