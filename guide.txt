@@ -1,0 +1,83 @@
+HIGH econ = Ambition
+LOW econ = Serenity
+
+HIGH dipl = Social
+LOW dipl = Material
+
+HIGH govt = Experience
+LOW govt = Creation
+
+HIGH scty = Structure
+LOW scty = Flow
+
+
+
+
+
+Ambition        Serenity (Intensity)
+Material        Social (Desire)
+Experience      Creation (Style)
+Flow            Structure (Organization)       
+
+
+INTENSITY COUNT: 24
+
+DESIRE COUNT: 22
+
+STYLE COUNT: 24
+
+ORGANIZATION COUNT: 22
+
+
+AOET
+AOEF
+AOCT
+AOCF
+AMET
+AMEF
+AMCT
+AMCF
+SOET
+SOEF
+SOCT
+SOCF
+SMET
+SMEF
+SMCT
+SMCF
+
+xOET
+xOEF
+xOCT
+xOCF
+xMET
+xMEF
+xMCT
+xMCF
+
+AxET
+AxEF
+AxCT
+AxCF
+SxET
+SxEF
+SxCT
+SxCF
+
+AOxT
+AOxF
+AMxT
+AMxF
+SOxT
+SOxF
+SMxT
+SMxF
+
+AOEx
+AOCx
+AMEx
+AMCx
+SOEx
+SOCx
+SMEx
+SMCx
